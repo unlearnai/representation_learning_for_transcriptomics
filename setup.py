@@ -10,7 +10,7 @@ setup(name='representation_learning_for_transcriptomics',
       url='http://github.com/unlearnai/representation_learning_for_transcriptomics.git',
       author='Unlearn.AI',
       author_email='info@unlearn.ai',
-      license='None',
+      license='MIT',
       packages=['representation_learning_for_transcriptomics'],
       install_requires=[
           'numpy > 1.15',
