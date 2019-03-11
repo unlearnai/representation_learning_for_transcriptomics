@@ -4,7 +4,7 @@ This code accompanies the paper by Smith et. al.,
 [*Deep learning of representations for transcriptomics-based phenotype prediction.*](https://www.unlearn.health)
 
 This module contains a small python-based framework for implementing
- doubly-nested cross validation. The module contains three examples demonstrating
+ doubly-nested cross validation. The module contains two examples demonstrating
  the use of nested cross validation to evaluate performance of various prediction models on transcriptomics data.
  One predicts a binary label using ridge regression as well as a random forest predictor.  A second example uses Cox proportional hazards for cancer survival prediction from gene expression data.
  All of the examples of classifiers and regressors in this code dump are wrappers from
